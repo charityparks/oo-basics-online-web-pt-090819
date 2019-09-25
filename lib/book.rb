@@ -11,7 +11,7 @@ class Book
     @author = author
   end
   
-  def author
+  def author(name)
     @author
   end
   
